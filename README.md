@@ -30,7 +30,6 @@ Here, I document concepts, notes, and hands-on projects as I progress through di
 ---
 
 ## 🚀 Projects  
-- 🧾 Document Processing with YOLOv8  
 - 📊 Data Analysis Dashboards  
 - 🤖 Deep Learning Models (CNN/RNN/Transformers)  
 - 💬 Simple NLP Applications (Sentiment Analysis)  
