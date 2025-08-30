@@ -1,22 +1,22 @@
-# Wuzzuf Job Scraper  
+# YallaKora Matches Scraper  
 
-A Python project that scrapes job postings (AI Engineer-related) from [Wuzzuf](https://wuzzuf.net) using **BeautifulSoup** and **Requests**.  
-The collected data is then saved into a CSV file (`job_Data.csv`) for further analysis.  
+A Python project that scrapes **competitions and matches with their times** from [YallaKora](https://www.yallakora.com) using **BeautifulSoup** and **Requests**.  
+The data is then exported into a CSV file for analysis and tracking.  
 
 ---
 
 ## 🚀 Features  
-- Scrapes job **title**, **type**, and **location**.  
-- Handles multiple pages of search results.  
-- Saves the data into a clean CSV file.  
+- Extracts all available **competitions / tournaments**.  
+- Scrapes all **matches** with their **kick-off times**.  
+- Saves the data into a CSV file for later use.  
 
 ---
 
 ## 🛠️ Technologies Used  
 - **Python 3.12**  
-- **Requests** (for sending HTTP requests)  
-- **BeautifulSoup4** (for parsing HTML content)  
-- **CSV** (for storing results in a structured format)  
+- **Requests** (for HTTP requests)  
+- **BeautifulSoup4** (for HTML parsing)  
+- **CSV** (to save data in structured format)  
 
 ---
 
